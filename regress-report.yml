@@ -21,6 +21,10 @@ test-cases:
     status: fail
 
   - summary: |
+      Позитивная проверка работоспособности фильтра "цена"
+    status: fail
+
+  - summary: |
       Просмотр товаров и детальной информации о товаре
     status: pass
 
