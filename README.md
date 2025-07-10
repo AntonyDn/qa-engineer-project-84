@@ -1,4 +1,5 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/AntonyDn/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AntonyDn/qa-engineer-project-84/actions)
 ## Учебный проект в рамках обучения курса "Инженер по ручному тестированию" школы программирования "Хекслет. В ходе выполнения данного проекта я протестировал сайт интернет-магазина, а именно: написал требования, провел тест-анализ, затем составил тест-кейсы и провел на их основании тестирование, нашел баги и описал их. После первого этапа была создана вторая версия приложения, в рамках которого я провел регрессионное тестирование. Для оформления тест-кейсов, баг-репортов и других документов я использовал язык разметки YAML.
-# Версии тестируемых приложений: https://hexlet-products-store.vercel.app , вторая версия: https://products-store-git-v2bugfixes-hexlet-components.vercel.app/?category=beauty
+# Версии тестируемых приложений: https://hexlet-products-store.vercel.app
+# вторая версия: https://products-store-git-v2bugfixes-hexlet-components.vercel.app/?category=beauty
