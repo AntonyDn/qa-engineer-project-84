@@ -88,6 +88,10 @@ test-cases:
       Успешная очистка корзины
     status: fail
 
+  - summary: |
+      Корректная работа хештэга
+    status: pass
+
 bugreports:
   - summary: |
       Некорректно работает параметр фильтра "В наличии"
